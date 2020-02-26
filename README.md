@@ -9,21 +9,22 @@ python elevator.py
 Input parameters: 
 number of floors(up to 30), number of customers(up to 30), number of elevators(1-2).
 
-<img src="images/elevator_usage.png>
+<img src="images/elevator_usage.png">
 
 Expected result:
 
-<img src="images/elevator_result_1.png>
-<img src="images/elevator_result_2.png>
-<img src="images/elevator_result_3.png>         
+<img src="images/elevator_result_1.png">
+<img src="images/elevator_result_2.png">
+<img src="images/elevator_result_3.png">         
 
 Exception:
 
 1. The user input value should be a positive integer. 
+<img src="images/elevator_exception_2.png">
 2. THe user input value should be less pre-defined max value. 
+<img src="images/elevator_exception.png">
 
-<img src="images/elevator_usage.png>
           
 Unit test:
 
-<img src="images/elevator_Unit_test_result.png>
+<img src="images/elevator_Unit_test_result.png">
